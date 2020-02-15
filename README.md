@@ -1,2 +1,3 @@
-# ComputerForensis
-This is a dump of all my reports from the Computer Forensics course from my Masters.
+# Computer Forensis
+This is a collection of my reports from the Computer Forensics course I took in during my Masters.
+All reports are in SANS style format.
